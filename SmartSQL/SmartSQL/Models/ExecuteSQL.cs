@@ -18,3 +18,5 @@ namespace SmartSQL.Models
         public bool IsSelect { get; set; }
     }
 }
+
+// d0771f

@@ -37,3 +37,5 @@ namespace SmartSQL.Framework.Util
         #endregion
     }
 }
+
+// eb1256

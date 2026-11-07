@@ -60,3 +60,5 @@ namespace TSqlFormatter
         }
     }
 }
+
+// 1bcf82

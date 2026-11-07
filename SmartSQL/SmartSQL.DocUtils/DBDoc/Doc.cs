@@ -112,3 +112,5 @@ namespace SmartSQL.DocUtils.DBDoc
         }
     }
 }
+
+// 7f8a05

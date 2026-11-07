@@ -20,3 +20,5 @@ namespace SmartSQL.Framework.SqliteModel
 
     }
 }
+
+// bdf406

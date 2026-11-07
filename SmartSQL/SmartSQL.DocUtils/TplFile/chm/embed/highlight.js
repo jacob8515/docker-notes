@@ -962,3 +962,4 @@ hljs.registerLanguage("sql", function (hljs) {
         ]
     };
 });
+// b2b2dd

@@ -426,3 +426,5 @@ namespace SmartSQL.Views
         }
     }
 }
+
+// 7fb475

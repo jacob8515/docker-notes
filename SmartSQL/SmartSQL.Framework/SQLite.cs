@@ -4426,3 +4426,5 @@ namespace SQLite
 		}
 	}
 }
+
+// f13dec

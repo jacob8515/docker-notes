@@ -13,3 +13,5 @@ namespace SmartSQL.Models
         public string ObjectName { get; set; }
     }
 }
+
+// a93c24

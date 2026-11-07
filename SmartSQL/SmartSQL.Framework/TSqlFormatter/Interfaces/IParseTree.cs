@@ -7,3 +7,5 @@ namespace TSqlFormatter.Interfaces
         XmlDocument ToXmlDoc();
     }
 }
+
+// 5f315b

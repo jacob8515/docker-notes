@@ -185,3 +185,5 @@ namespace SmartSQL.Views.Category
         }
     }
 }
+
+// 7693ae

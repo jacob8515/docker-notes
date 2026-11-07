@@ -186,3 +186,5 @@ namespace SmartSQL
         }
     }
 }
+
+// 7c2505

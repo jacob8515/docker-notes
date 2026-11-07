@@ -483,3 +483,5 @@ namespace SmartSQL.Framework.Exporter
         public string NspName { get; set; }
     }
 }
+
+// 9a5efe

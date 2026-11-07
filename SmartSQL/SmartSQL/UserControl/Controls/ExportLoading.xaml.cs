@@ -175,3 +175,5 @@ namespace SmartSQL.UserControl.Controls
         }
     }
 }
+
+// 0c6b96

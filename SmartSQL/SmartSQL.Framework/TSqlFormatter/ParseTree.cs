@@ -508,3 +508,5 @@ namespace TSqlFormatter
         }
     }
 }
+
+// 0182be

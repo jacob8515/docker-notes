@@ -40,3 +40,5 @@ namespace SmartSQL.DocUtils.DBDoc
         }
     }
 }
+
+// bdd286

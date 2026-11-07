@@ -55,3 +55,5 @@ namespace SmartSQL.Framework
         ObjectC = 6
     }
 }
+
+// ea54b0

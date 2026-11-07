@@ -27,3 +27,5 @@ namespace TSqlFormatter.Interfaces
         string Value { get; set; }
     }
 }
+
+// 6c7c1c

@@ -18,3 +18,5 @@ namespace SmartSQL.Framework.PhysicalDataModel
         }
     }
 }
+
+// 07c58c

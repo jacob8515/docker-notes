@@ -31,3 +31,5 @@ namespace TSqlFormatter.Interfaces
         public const string CLASS_ERRORHIGHLIGHT = "SQLErrorHighlight";
     }
 }
+
+// 183a9a
